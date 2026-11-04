@@ -23,11 +23,11 @@
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/wynsumhi/study-algorithm/tree/master/0001-two-sum) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/wynsumhi/study-algorithm/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
