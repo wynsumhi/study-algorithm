@@ -19,3 +19,15 @@
 - 이 폴더는 **백준(BOJ) 문제 풀이**를 포함합니다.
 - 각 문제는 파일명으로 문제 번호를 사용하며, 문제 번호를 통해 백준 허브 사이트와 연결될 수 있습니다.
 - 백준 허브에 자동으로 연결되도록 설정하여, 문제를 바로 확인하고 풀 수 있습니다.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/wynsumhi/study-algorithm/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/wynsumhi/study-algorithm/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
