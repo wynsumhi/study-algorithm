@@ -9,7 +9,7 @@ SWEA · BOJ · LeetCode 문제 풀이와 알고리즘 연습 코드를 모아둔
 ├── SWEA/       # 백준허브 자동 업로드 (D1, D2 …)
 ├── BOJ/        # 백준 풀이 (Bronze, Silver …)
 └── Practice/   # 직접 작성한 연습 코드 · SWEA 수동 풀이
-    ├── SWEA D1/ ~ SWEA D4/
+    ├── SWEA 난이도별/
     └── *.py    # DFS, 정렬, 스택 등 알고리즘 기본 연습
 ```
 
