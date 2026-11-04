@@ -1,33 +1,38 @@
-## Algorithm Problem Solving - SWEA & BOJ
+# Algorithm Problem Solving
 
+SWEA · BOJ · LeetCode 문제 풀이와 알고리즘 연습 코드를 모아둔 저장소입니다.
 
+## 📁 폴더 구조
 
-### 1. `Practice/` 폴더
+```
+├── LeetCode/   # LeetHub 자동 업로드 (난이도별)
+├── SWEA/       # 백준허브 자동 업로드 (D1, D2 …)
+├── BOJ/        # 백준 풀이 (Bronze, Silver …)
+└── Practice/   # 직접 작성한 연습 코드 · SWEA 수동 풀이
+    ├── SWEA D1/ ~ SWEA D4/
+    └── *.py    # DFS, 정렬, 스택 등 알고리즘 기본 연습
+```
 
-- 이 폴더는 **SWEA 문제 풀이**를 포함합니다.
-- `SWEA D1`, `SWEA D2`, `SWEA D3`, `SWEA D4`와 같은 하위 폴더에 각 난이도별로 문제 풀이가 정리되어 있습니다.
-- 각 문제 풀이 파일에는 **상세한 주석**을 포함하여 풀이 과정을 이해하기 쉽게 설명합니다.
-- 풀이 과정은 주석으로 상세하게 작성하여, 문제를 푸는 방법과 핵심 아이디어를 이해할 수 있도록 돕습니다.
+| 폴더 | 내용 | 업로드 방식 |
+| --- | --- | --- |
+| `LeetCode/` | LeetCode 풀이, `난이도/문제번호-제목/` 구조 | [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0) 자동 |
+| `SWEA/` | SW Expert Academy 풀이, `D레벨/문제번호. 제목/` 구조 | [백준허브](https://github.com/BaekjoonHub/BaekjoonHub) 자동 |
+| `BOJ/` | 백준 풀이, `티어/문제번호. 제목/` 구조 | 백준허브 자동 |
+| `Practice/` | 알고리즘 기본 연습 코드와 SWEA 난이도별 수동 풀이 | 직접 작성 |
 
-### 2. `SWEA/` 폴더
+## ✏️ 풀이 원칙
 
-- 이 폴더에는 **자동으로 올라가는 SWEA 문제 풀이** 파일들이 저장됩니다.
-- 이 파일들은 자동화된 방식으로 저장되며, 각 파일명은 해당 문제의 번호로 되어 있습니다.
-
-### 3. `BOJ/` 폴더
-
-- 이 폴더는 **백준(BOJ) 문제 풀이**를 포함합니다.
-- 각 문제는 파일명으로 문제 번호를 사용하며, 문제 번호를 통해 백준 허브 사이트와 연결될 수 있습니다.
-- 백준 허브에 자동으로 연결되도록 설정하여, 문제를 바로 확인하고 풀 수 있습니다.
+- 수동 풀이 파일에는 풀이 과정과 핵심 아이디어를 **주석으로 상세히** 남깁니다.
+- 자동 업로드 폴더에는 문제별 `README.md`(문제 정보, 성능 요약)가 함께 저장됩니다.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0001-two-sum](https://github.com/wynsumhi/study-algorithm/tree/master/0001-two-sum) |
+| [0001-two-sum](https://github.com/wynsumhi/study-algorithm/tree/main/LeetCode/Easy/0001-two-sum) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0001-two-sum](https://github.com/wynsumhi/study-algorithm/tree/master/0001-two-sum) |
+| [0001-two-sum](https://github.com/wynsumhi/study-algorithm/tree/main/LeetCode/Easy/0001-two-sum) | Easy |
 <!---LeetCode Topics End-->
