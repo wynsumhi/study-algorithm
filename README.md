@@ -25,6 +25,11 @@ SWEA · BOJ · LeetCode 문제 풀이와 알고리즘 연습 코드를 모아둔
 - 수동 풀이 파일에는 풀이 과정과 핵심 아이디어를 **주석으로 상세히** 남깁니다.
 - 자동 업로드 폴더에는 문제별 `README.md`(문제 정보, 성능 요약)가 함께 저장됩니다.
 
+---
+
+<details>
+<summary><b>📊 LeetCode 토픽별 풀이 목록</b> (LeetHub 자동 생성)</summary>
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
@@ -36,3 +41,5 @@ SWEA · BOJ · LeetCode 문제 풀이와 알고리즘 연습 코드를 모아둔
 | ------- | ------- |
 | [0001-two-sum](https://github.com/wynsumhi/study-algorithm/tree/main/LeetCode/Easy/0001-two-sum) | Easy |
 <!---LeetCode Topics End-->
+
+</details>
