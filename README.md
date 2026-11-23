@@ -37,6 +37,7 @@ SWEA · BOJ · LeetCode 문제 풀이와 알고리즘 연습 코드를 모아둔
 | ------- | ------- |
 | [0001-two-sum](https://github.com/wynsumhi/study-algorithm/tree/main/LeetCode/Easy/0001-two-sum) | Easy |
 | [0238-product-of-array-except-self](https://github.com/wynsumhi/study-algorithm/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
+| [0334-increasing-triplet-subsequence](https://github.com/wynsumhi/study-algorithm/tree/main/LeetCode/Medium/0334-increasing-triplet-subsequence/) | Medium |
 | [0605-can-place-flowers](https://github.com/wynsumhi/study-algorithm/tree/main/LeetCode/Easy/0605-can-place-flowers/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/wynsumhi/study-algorithm/tree/main/LeetCode/Easy/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 ## Hash Table
@@ -71,11 +72,16 @@ SWEA · BOJ · LeetCode 문제 풀이와 알고리즘 연습 코드를 모아둔
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/wynsumhi/study-algorithm/tree/main/LeetCode/Medium/0334-increasing-triplet-subsequence/) | Medium |
 | [0605-can-place-flowers](https://github.com/wynsumhi/study-algorithm/tree/main/LeetCode/Easy/0605-can-place-flowers/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/wynsumhi/study-algorithm/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/wynsumhi/study-algorithm/tree/main/LeetCode/Medium/0334-increasing-triplet-subsequence/) | Medium |
 <!---LeetCode Topics End-->
 
 </details>
