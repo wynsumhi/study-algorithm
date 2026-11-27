@@ -51,6 +51,7 @@ SWEA · BOJ · LeetCode 문제 풀이와 알고리즘 연습 코드를 모아둔
 | [0151-reverse-words-in-a-string](https://github.com/wynsumhi/study-algorithm/tree/main/LeetCode/Medium/0151-reverse-words-in-a-string/) | Medium |
 | [0283-move-zeroes](https://github.com/wynsumhi/study-algorithm/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/wynsumhi/study-algorithm/tree/main/LeetCode/Easy/0345-reverse-vowels-of-a-string/) | Easy |
+| [0392-is-subsequence](https://github.com/wynsumhi/study-algorithm/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/wynsumhi/study-algorithm/tree/main/LeetCode/Medium/0443-string-compression/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/wynsumhi/study-algorithm/tree/main/LeetCode/Easy/1768-merge-strings-alternately/) | Easy |
 ## String
@@ -58,6 +59,7 @@ SWEA · BOJ · LeetCode 문제 풀이와 알고리즘 연습 코드를 모아둔
 | ------- | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/wynsumhi/study-algorithm/tree/main/LeetCode/Medium/0151-reverse-words-in-a-string/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/wynsumhi/study-algorithm/tree/main/LeetCode/Easy/0345-reverse-vowels-of-a-string/) | Easy |
+| [0392-is-subsequence](https://github.com/wynsumhi/study-algorithm/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/wynsumhi/study-algorithm/tree/main/LeetCode/Medium/0443-string-compression/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/wynsumhi/study-algorithm/tree/main/LeetCode/Easy/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/wynsumhi/study-algorithm/tree/main/LeetCode/Easy/1768-merge-strings-alternately/) | Easy |
@@ -86,6 +88,10 @@ SWEA · BOJ · LeetCode 문제 풀이와 알고리즘 연습 코드를 모아둔
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/wynsumhi/study-algorithm/tree/main/LeetCode/Medium/0334-increasing-triplet-subsequence/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0392-is-subsequence](https://github.com/wynsumhi/study-algorithm/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
 <!---LeetCode Topics End-->
 
 </details>
